@@ -1,0 +1,87 @@
+@media(max-width:768px){
+    body{
+        background-color: white;
+    }
+    header{
+    background: linear-gradient(45deg,rgb(254,218,117),rgb(250,126,30),rgb(214,41,118),rgb(150,47,191),rgb(79,91,213));
+width: 100%;
+margin-top: -5px;
+    }
+    .head{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .fa-instagram{
+        font-size: 30px;
+        background: linear-gradient(360deg, rgb(254,218,117), rgb(250,126,30), rgb(214,41,118), rgb(150,47,191), rgb(79,91,213));
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    }
+    main{
+        text-align: center;
+
+    }
+    .btn{
+        width: 300px;
+        height: 35px;
+        margin-top: 500px;
+        border-radius: 10px;
+        border: 2px solid;
+        background-color: rgb(214,41,118);
+    }
+   button a{
+        text-decoration: none;
+       color: white;
+    }
+    .containar{
+        margin-top: 200px;
+    }
+    .input-text input{
+        width: 200px;
+        height: 30px;
+        border: 2px solid;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .submit-btn{
+        width: 100px;
+        height: 25px;
+        background-color: rgb(15, 15, 226);
+        color: white;
+        border: 2px solid;
+        border-radius: 5px;
+    }
+    .main-container{
+        height: 100vh;
+    }
+    .icons{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 60px;
+        
+    }
+    .fa-house{
+        font-size: 35px;
+        margin: 0px 25px;
+    }
+    .fa-circle-play{
+         font-size: 35px;
+          margin: 0px 25px;
+    }
+    .fa-paper-plane{
+         font-size: 35px;
+          margin: 0px 25px;
+    }
+    .fa-magnifying-glass{
+         font-size: 35px;
+          margin: 0px 25px;
+    }
+    .fa-circle-user{
+         font-size: 35px;
+          margin: 0px 25px;
+    }
+}
