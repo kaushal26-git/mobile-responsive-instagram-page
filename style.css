@@ -48,7 +48,7 @@ margin-top: -5px;
     }
     .submit-btn{
         width: 100px;
-        height: 25px;
+        height: 30px;
         background-color: rgb(15, 15, 226);
         color: white;
         border: 2px solid;
@@ -66,22 +66,22 @@ margin-top: -5px;
     }
     .fa-house{
         font-size: 35px;
-        margin: 0px 25px;
+        margin: 0px 8px;
     }
     .fa-circle-play{
          font-size: 35px;
-          margin: 0px 25px;
+          margin: 0px 8px;
     }
     .fa-paper-plane{
          font-size: 35px;
-          margin: 0px 25px;
+          margin: 0px 8px;
     }
     .fa-magnifying-glass{
          font-size: 35px;
-          margin: 0px 25px;
+          margin: 0px 8px;
     }
     .fa-circle-user{
          font-size: 35px;
-          margin: 0px 25px;
+          margin: 0px 8px;
     }
 }
